@@ -41,6 +41,6 @@ Execute a Aplicação:
 python main.py
 ```
 
-**Lembre-se de substituir `SEU_NOME_DE_USUARIO/SEU_NOME_DE_REPOSITORIO` nos links!**
+**Lembre-se de substituir `vbuarque/gui-video-downloader` nos links!**
 
 **Agora o seu projeto está configurado da forma correta: o código-fonte está limpo no GitHub**
