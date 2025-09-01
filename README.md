@@ -18,8 +18,8 @@ Se você quiser executar ou modificar o código-fonte, siga estes passos:
 
 **Clone o Repositório:**
 ```
-git clone https://github.com/SEU_NOME_DE_USUARIO/SEU_NOME_DE_REPOSITORIO.git
-cd SEU_NOME_DE_REPOSITORIO
+git clone https://github.com/vbuarque/gui-video-downloader.git
+cd gui-video-downloader
 ```
 
 **Instale as Dependências Python:**
