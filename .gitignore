@@ -1,0 +1,11 @@
+# Ficheiros e pastas do PyInstaller
+/dist
+/build
+*.spec
+
+# Pasta de binários locais (não deve ir para o GitHub)
+/bin
+
+# Cache do Python
+__pycache__/
+*.pyc
